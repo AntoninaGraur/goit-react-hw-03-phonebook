@@ -3,7 +3,7 @@ import styled from '@emotion/styled';
 export const FormContainer = styled.div`
   padding: 30px 30px;
   margin: 0 auto;
-  background-color: #cde1ee;
+  background-color: #e0eaf1;
   align-items: center;
   flex-direction: column;
   display: flex;

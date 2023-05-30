@@ -62,3 +62,4 @@ ContactForm.propTypes = {
     number: PropTypes.string.isRequired
   })
 }
+
